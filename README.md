@@ -98,6 +98,4 @@ LineFollower/
 
 Developed as part of a robotics project focused on designing a reliable, efficient, and competition-ready autonomous line follower robot.
 
-## License
 
-This project is licensed under the MIT License.
